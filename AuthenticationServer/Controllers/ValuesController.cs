@@ -12,13 +12,18 @@ namespace AuthenticationServer.Controllers
     public class ValuesController : Controller
     {
         // GET api/values
-        [MiddlewareFilter(typeof(JsReportPipeline))]
-        public IActionResult Invoice()
-        {
-            HttpContext.JsReportFeature().Recipe(Recipe.PhantomPdf);
 
-            return View(new { name="Golam"});
+        public string Get() {
+            return "My name is Golam Rabbany";
         }
+
+        //[MiddlewareFilter(typeof(JsReportPipeline))]
+        //public IActionResult Invoice()
+        //{
+        //    HttpContext.JsReportFeature().Recipe(Recipe.PhantomPdf);
+
+        //    return View(new { name="Golam"});
+        //}
 
         //[MiddlewareFilter(typeof(JsReportPipeline))]
         //public IActionResult InvoiceDownload()
