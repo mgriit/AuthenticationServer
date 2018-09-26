@@ -13419,11 +13419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Working Directory\\AuthenticationServer\\AuthenticationServer\\AuthenticationServer.csproj",
+      "projectUniqueName": "D:\\SelfDevelopmentDerectory\\ProjectDevelopingInVS2017\\AuthenticationServer\\AuthenticationServer\\AuthenticationServer.csproj",
       "projectName": "AuthenticationServer",
-      "projectPath": "D:\\Working Directory\\AuthenticationServer\\AuthenticationServer\\AuthenticationServer.csproj",
+      "projectPath": "D:\\SelfDevelopmentDerectory\\ProjectDevelopingInVS2017\\AuthenticationServer\\AuthenticationServer\\AuthenticationServer.csproj",
       "packagesPath": "C:\\Users\\rabbany\\.nuget\\packages\\",
-      "outputPath": "D:\\Working Directory\\AuthenticationServer\\AuthenticationServer\\obj\\",
+      "outputPath": "D:\\SelfDevelopmentDerectory\\ProjectDevelopingInVS2017\\AuthenticationServer\\AuthenticationServer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
